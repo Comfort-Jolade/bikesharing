@@ -35,7 +35,9 @@ The above results analysis of the New York City bike sharing business has given 
 -	Over 140K bike riders with male as major dominant
 -	The start time is between 4pm and 7m
 
-The above will guide Kate in adopting a similar business proposal form Des Moines
-Additional Visualiztion that can be performed for the analysis are
-Visualization that analyze the fee payable by bike riders trip duration.
-Visualization analyzing the profitability of the business during different periods.
+The above will guide Kate in adopting a similar business proposal form Des Moines.
+
+Additional Visualiztion that can be performed for the analysis are:
+
+- Visualization that analyze the fee payable by bike riders trip duration.
+- Visualization showing the profitability analysis of the business during different periods.
