@@ -31,9 +31,9 @@ Also in August we have the highest start time is 5pm
 ## Summary: 
 The above results analysis of the New York City bike sharing business has given an insight to the following
 -	The male are into the bike sharing more than female
--	The average trip duration is 5 minutes
+-	The most frequent trip duration is 5 minutes
 -	Over 140K bike riders with male as major dominant
--	The start time is between 4pm and 7m
+-	The start time and stop time is between 4pm and 7m
 
 The above will guide Kate in adopting a similar business proposal form Des Moines.
 
