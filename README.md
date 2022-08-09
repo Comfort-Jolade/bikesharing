@@ -10,7 +10,7 @@ Overview of the bike sharing business in New York City gives an insight of havin
 The image below shows the length of time that bikes are checked out for all riders and genders
 ![image](https://user-images.githubusercontent.com/104603037/183523030-0cc4ad6c-9f33-419c-925f-cc457aece6f7.png)
 
-The highest start is between 4pm and 7pm for all genders.
+The highest start time is between 4pm and 7pm for all genders.
 
 The image below shows the number of bike trips for all riders and genders for each hour of each day of the week:
 ![image](https://user-images.githubusercontent.com/104603037/183523240-21b75bb1-38ab-4a8a-8648-5074445f7fcc.png)
@@ -25,7 +25,7 @@ Over 140K bike riders spend an average of 5minutes
 The analysis below also confirms we have more Subscriber than customers.
 ![image](https://user-images.githubusercontent.com/104603037/183523430-5beaa443-2be6-48b4-b0aa-0428670d9a86.png)
 
-Also in August we have the highest start is 5pm
+Also in August we have the highest start time is 5pm
 ![image](https://user-images.githubusercontent.com/104603037/183523491-76d24262-293d-4024-8009-1309d012f46f.png)
 
 ## Summary: 
@@ -39,5 +39,5 @@ The above will guide Kate in adopting a similar business proposal form Des Moine
 
 Additional Visualiztion that can be performed for the analysis are:
 
-- Visualization that analyze the fee payable by bike riders trip duration.
+- Visualization that analyze the subscription fee payable by bike riders trip duration.
 - Visualization showing the profitability analysis of the business during different periods of the year.
