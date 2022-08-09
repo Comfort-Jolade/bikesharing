@@ -19,7 +19,7 @@ Male ride the bikes more and the stop time confirms this.
 
 The image below shows the number of bike trips for each type of user and gender for each day of the week.
 ![image](https://user-images.githubusercontent.com/104603037/183523103-a7b81070-194a-40d9-8c86-92de28d0c27f.png)
-We have more males riding bikes and spending 5 minutes on the average.
+We have more males riding bikes and spending 5 minutes.
 Over 140K bike riders spend an average of 5minutes
 
 The analysis below also confirms we have more Subscriber than customers.
@@ -40,4 +40,4 @@ The above will guide Kate in adopting a similar business proposal form Des Moine
 Additional Visualiztion that can be performed for the analysis are:
 
 - Visualization that analyze the fee payable by bike riders trip duration.
-- Visualization showing the profitability analysis of the business during different periods.
+- Visualization showing the profitability analysis of the business during different periods of the year.
